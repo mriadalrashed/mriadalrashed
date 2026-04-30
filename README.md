@@ -4,7 +4,7 @@
 
 ### .NET Backend Developer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=32&center=true&vCenter=true&width=700&lines=Clean+Architecture+Enthusiast;Cybersecurity+Enthusiast;Security+Focused+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=32&center=true&vCenter=true&width=700&lines=.NET+Backend+Developer;Backend+Developer+with+a+Security+Mindset;Clean+Architecture+Enthusiast)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mriadalrashed&color=blueviolet&style=for-the-badge)
 
