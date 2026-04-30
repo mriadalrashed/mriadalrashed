@@ -14,85 +14,63 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Backend Developer specialized in **.NET, ASP.NET Core & Clean Architecture**
-- 🔐 Freelance **Penetration Tester on HackerOne**
-- 🛡️ Strong experience in **API Security, IDOR & Access Control issues**
-- 🚀 Building **scalable, testable, and maintainable systems**
-- 🧠 Applying **SOLID principles, Repository & Unit of Work patterns**
-- ⚡ Writing **secure, production-structured code**
+- 💻 .NET Backend Developer (**ASP.NET Core, Clean Architecture**)
+- 🔐 Freelance **Penetration Tester (HackerOne)**
+- 🛡️ Experienced in **Application Security, API Security & vulnerability research (HackerOne)**
+- 🚀 Building **secure and scalable applications**
+- 🧠 Applying **SOLID & clean code principles**
 
 ---
 
 ## 🎓 Education
 
 - 🎓 **.NET Web Development** – EC Utbildning, Örebro *(Expected 2027)*  
-- 🎓 **BSc Electrical & Electronic Engineering (Automatic Control)**  
-  - University of Aleppo *(2021)*  
+- 🎓 **BSc Electrical & Electronic Engineering** – University of Aleppo *(2021)*  
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 Educational Company System (Full-Stack)
-
-A complete production-style system with **React frontend + ASP.NET Core API**
-
-- Built with **Clean Architecture & Minimal APIs**
-- Uses **PostgreSQL + EF Core**
-- Implements **Unit of Work, Repository Pattern & caching**
-- Includes **full CRUD workflows for courses, participants & registrations**
-- Integrated frontend using **React + Vite + Axios service layer**
+- ASP.NET Core API + React frontend  
+- Clean Architecture with **PostgreSQL & EF Core**  
+- Implements real-world **CRUD workflows**
 
 🔗 API: https://github.com/mriadalrashed/EducationalCompany.Api  
 🔗 Portal: https://github.com/mriadalrashed/EducationalCompany.Portal  
 
 ---
 
-### 🔹 GymPortal – Full MVC Application
-
-A complete gym management system built with **ASP.NET Core MVC**
-
-- Authentication with **ASP.NET Identity + Google OAuth**
-- Booking system with **capacity control**
-- Role-based access (**Admin / Member**)
-- Integrated **testing (xUnit, Moq)**
-- Follows **Clean Architecture structure**
+### 🔹 GymPortal (ASP.NET MVC)
+- Authentication with **Identity + Google OAuth**  
+- Booking system with **role-based access**  
+- Includes **unit & integration testing**
 
 🔗 https://github.com/mriadalrashed/aspnet-riad-alrashed  
 
 ---
 
-### 🔹 CManager – Customer Management System
-
-Layered application with **Console + WPF GUI**
-
-- Built using **C# with MVVM architecture**
-- Implements **Repository & Service patterns**
-- JSON-based persistence system
-- Includes **unit testing for services and repositories**
+### 🔹 CManager (WPF + Console)
+- Layered architecture with **MVVM**  
+- Implements **Repository & Service patterns**  
+- JSON-based persistence with testing  
 
 🔗 https://github.com/mriadalrashed/CManager  
 
 ---
 
-### 🔹 Frontend Projects (UI Engineering)
+### 🔹 Frontend Projects
+- **Silicon Design** → Responsive UI with dark/light mode  
+- **Storaid Design** → React app based on Figma design  
 
-#### Silicon Design
-- Responsive landing page with **dark/light mode**
-- Interactive UI with animations and modern design  
 🔗 https://github.com/mriadalrashed/Silicon-Design  
-
-#### Storaid Design
-- React + Vite application based on **Figma design**
-- Component-based architecture with reusable UI  
 🔗 https://github.com/mriadalrashed/storaid-design  
 
 ---
 
-### 🔹 Security Research (HackerOne)
+### 🔹 Security Research
+- Active penetration testing on **HackerOne**
 
-- Active penetration testing on real-world applications
-  
 🔗 https://hackerone.com/riadalrashed  
 
 ---
@@ -109,7 +87,7 @@ Layered application with **Console + WPF GUI**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-OWASP-red?style=for-the-badge)
 
-
+---
 
 ## 📫 Connect With Me
 
